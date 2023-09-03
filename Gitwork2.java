@@ -36,12 +36,6 @@ public class Gitwork2 {
 		
 		
 
-		int c=40;
-		String name="kalhan"
-			
-			System.out.println("the value is "+c);
-		
-		System.out.println("the person name is : "+name);
 		
 
 	}
