@@ -12,6 +12,14 @@ public class Gitwork2 {
 		// we are good to understand but nothing complaining about the status
 		
 		// where is the conflict
+		
+		// a
+//		b
+//		c
+//		d
+//		e
+//		f
+//		g
 
 	}
 
