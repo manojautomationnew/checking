@@ -35,6 +35,10 @@ public class Gitwork2 {
 		System.out.println("this is the name : "+name);
 		
 		System.out.println(a+name);
+
+		// there are changes nothing we can do we need to come and watch according to the idea 
+
+		// no one can distract various resources
 		
 
 		
