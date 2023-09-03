@@ -13,6 +13,12 @@ public class Gitwork2 {
 		
 		// where is the conflict
 
+		// 1
+		// 2
+		// 	3
+		// 	4
+		// 	5
+
 	}
 
 }
