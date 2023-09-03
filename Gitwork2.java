@@ -34,6 +34,7 @@ public class Gitwork2 {
 		
 		System.out.println("this is the name : "+name);
 		
+		System.out.println(a+name);
 		
 
 		
