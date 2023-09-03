@@ -26,6 +26,15 @@ public class Gitwork2 {
 		// 	3
 		// 	4
 		// 	5
+		
+		int a=20;
+		String name="manoj";
+		
+		System.out.println("this is the value "+a);
+		
+		System.out.println("this is the name : "+name);
+		
+		
 
 	}
 
